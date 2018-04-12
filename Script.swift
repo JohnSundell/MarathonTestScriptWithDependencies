@@ -1,4 +1,4 @@
 import Foundation
 import Files
 
-print(Folder.current.path)
+print("Hello, world!")
